@@ -67,14 +67,14 @@
 [submodule "extensions/canofspam"]
 	path = extensions/canofspam
 	url = https://github.com/symphonists/canofspam.git
-[submodule "extensions/color-chooser-field"]
-	path = extensions/color-chooser-field
+[submodule "extensions/color_chooser_field"]
+	path = extensions/color_chooser_field
 	url = https://github.com/DeuxHuitHuit/color_chooser_field.git
 [submodule "extensions/configuration"]
 	path = extensions/configuration
 	url = https://github.com/bauhouse/configuration.git
-[submodule "extensions/content-type-mappings"]
-	path = extensions/content-type-mappings
+[submodule "extensions/content_type_mappings"]
+	path = extensions/content_type_mappings
 	url = https://github.com/symphonists/content_type_mappings.git
 [submodule "extensions/debugdevkit"]
 	path = extensions/debugdevkit
@@ -94,14 +94,14 @@
 [submodule "extensions/globalresourceloader"]
 	path = extensions/globalresourceloader
 	url = https://github.com/symphonists/globalresourceloader.git
-[submodule "extensions/image-index-preview"]
-	path = extensions/image-index-preview
+[submodule "extensions/image_index_preview"]
+	path = extensions/image_index_preview
 	url = https://github.com/symphonists/image_index_preview.git
 [submodule "extensions/logsdevkit"]
 	path = extensions/logsdevkit
 	url = https://github.com/symphonists/logsdevkit.git
-[submodule "extensions/maintenance-mode"]
-	path = extensions/maintenance-mode
+[submodule "extensions/maintenance_mode"]
+	path = extensions/maintenance_mode
 	url = https://github.com/symphonycms/maintenance_mode.git
 [submodule "extensions/markdown"]
 	path = extensions/markdown
@@ -115,11 +115,11 @@
 [submodule "extensions/reflectionfield"]
 	path = extensions/reflectionfield
 	url = https://github.com/symphonists/reflectionfield.git
-[submodule "extensions/repeating-date-field"]
-	path = extensions/repeating-date-field
+[submodule "extensions/repeating_date_field"]
+	path = extensions/repeating_date_field
 	url = https://github.com/symphonists/repeating_date_field.git
-[submodule "extensions/resave-entries"]
-	path = extensions/resave-entries
+[submodule "extensions/resave_entries"]
+	path = extensions/resave_entries
 	url = https://github.com/alpacaaa/resave_entries.git
 [submodule "extensions/routing"]
 	path = extensions/routing
