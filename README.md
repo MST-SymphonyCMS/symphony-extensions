@@ -1,4 +1,4 @@
 symphony-extensions
 ===================
 
-A repository of submodules featuring a list of all extensions
+A repository of submodules featuring the [Symphony extensions](http://symphonyextensions.com/) that I use regularly.
