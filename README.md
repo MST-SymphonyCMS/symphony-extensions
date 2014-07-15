@@ -5,6 +5,7 @@ A repository of submodules featuring the [Symphony extensions](http://symphonyex
 
 ## Instructions
 
-From this directory type the command below to initialize and update all extensions:
-
-`git submodule update --init --recursive`
+1. Navigate to the cloned directory
+2. Initialize and update all extensions: `git submodule update --init --recursive`
+3. Clean up all Git references: `rm -Rf extensions/**/.git*`
+4. Get to work building your Symphony site!
