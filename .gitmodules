@@ -142,3 +142,6 @@
 [submodule "extensions/resave_entries"]
 	path = extensions/resave_entries
 	url = https://github.com/alpacaaa/resave_entries.git
+[submodule "extensions/publish_tabs"]
+	path = extensions/publish_tabs
+	url = git@github.com:symphonists/publish_tabs.git
